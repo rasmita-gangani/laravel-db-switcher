@@ -2,6 +2,7 @@
     "name": "Rashmitagangani/db-switcher",
     "description": "A Laravel package for switching database connections easily",
     "type": "library",
+    "version": "1.0",
     "require": {
         "php": "^8.2",
         "illuminate/support": "^8.0|^9.0|^10.0"
